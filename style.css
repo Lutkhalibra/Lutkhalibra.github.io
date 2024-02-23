@@ -1,0 +1,22 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #000; /* Zwart als achtergrondkleur */
+    color: #fff; /* Witte tekstkleur voor betere leesbaarheid op een zwarte achtergrond */
+}
+
+h1 {
+    color: #ff0000; /* Donkere tekstkleur */
+}
+
+h2 {
+    color: #0066cc; /* Blauwe tekstkleur */
+}
+
+p {
+    color: #ffffff; /* Grijze tekstkleur */
+    line-height: 1.6;
+}
